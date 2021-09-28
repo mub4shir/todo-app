@@ -43,6 +43,9 @@ form {
 .input::placeholder {
   color: #b6b6b6;
 }
+.input:focus {
+  outline: none;
+}
 
 .todos {
   color: #fff;
