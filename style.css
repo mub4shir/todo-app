@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -26,9 +25,10 @@ h1 {
 }
 
 form {
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 10px rgb(179, 131, 226);
   max-width: 100%;
 }
+
 .input {
   border: none;
   color: #fff;
